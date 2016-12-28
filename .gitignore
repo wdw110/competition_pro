@@ -7,5 +7,6 @@
 .#*
 *.lprof
 *.swp
+*.csv
 *.swo
 .DS_Store
